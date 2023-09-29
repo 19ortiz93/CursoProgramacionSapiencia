@@ -1,0 +1,7 @@
+C:\Users\fop93\OneDrive\Escritorio\Curso Programación Sapiensia\Programación\Visual Studio 22\metodosConRetorno\bin\Debug\metodosConRetorno.exe.config
+C:\Users\fop93\OneDrive\Escritorio\Curso Programación Sapiensia\Programación\Visual Studio 22\metodosConRetorno\bin\Debug\metodosConRetorno.exe
+C:\Users\fop93\OneDrive\Escritorio\Curso Programación Sapiensia\Programación\Visual Studio 22\metodosConRetorno\bin\Debug\metodosConRetorno.pdb
+C:\Users\fop93\OneDrive\Escritorio\Curso Programación Sapiensia\Programación\Visual Studio 22\metodosConRetorno\obj\Debug\metodosConRetorno.csproj.AssemblyReference.cache
+C:\Users\fop93\OneDrive\Escritorio\Curso Programación Sapiensia\Programación\Visual Studio 22\metodosConRetorno\obj\Debug\metodosConRetorno.csproj.CoreCompileInputs.cache
+C:\Users\fop93\OneDrive\Escritorio\Curso Programación Sapiensia\Programación\Visual Studio 22\metodosConRetorno\obj\Debug\metodosConRetorno.exe
+C:\Users\fop93\OneDrive\Escritorio\Curso Programación Sapiensia\Programación\Visual Studio 22\metodosConRetorno\obj\Debug\metodosConRetorno.pdb

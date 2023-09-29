@@ -1,0 +1,7 @@
+C:\Users\fop93\OneDrive\Escritorio\Curso Programación Sapiensia\Programación\Visual Studio 22\miPrimerApp\miPrimerApp\bin\Debug\miPrimerApp.exe.config
+C:\Users\fop93\OneDrive\Escritorio\Curso Programación Sapiensia\Programación\Visual Studio 22\miPrimerApp\miPrimerApp\bin\Debug\miPrimerApp.exe
+C:\Users\fop93\OneDrive\Escritorio\Curso Programación Sapiensia\Programación\Visual Studio 22\miPrimerApp\miPrimerApp\bin\Debug\miPrimerApp.pdb
+C:\Users\fop93\OneDrive\Escritorio\Curso Programación Sapiensia\Programación\Visual Studio 22\miPrimerApp\miPrimerApp\obj\Debug\miPrimerApp.csproj.AssemblyReference.cache
+C:\Users\fop93\OneDrive\Escritorio\Curso Programación Sapiensia\Programación\Visual Studio 22\miPrimerApp\miPrimerApp\obj\Debug\miPrimerApp.csproj.CoreCompileInputs.cache
+C:\Users\fop93\OneDrive\Escritorio\Curso Programación Sapiensia\Programación\Visual Studio 22\miPrimerApp\miPrimerApp\obj\Debug\miPrimerApp.exe
+C:\Users\fop93\OneDrive\Escritorio\Curso Programación Sapiensia\Programación\Visual Studio 22\miPrimerApp\miPrimerApp\obj\Debug\miPrimerApp.pdb
