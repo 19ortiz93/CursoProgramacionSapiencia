@@ -1,0 +1,7 @@
+C:\Users\fop93\OneDrive\Escritorio\Curso Programación Sapiensia\Programación\Visual Studio 22\conversionEjemplo1\bin\Debug\conversionEjemplo1.exe.config
+C:\Users\fop93\OneDrive\Escritorio\Curso Programación Sapiensia\Programación\Visual Studio 22\conversionEjemplo1\bin\Debug\conversionEjemplo1.exe
+C:\Users\fop93\OneDrive\Escritorio\Curso Programación Sapiensia\Programación\Visual Studio 22\conversionEjemplo1\bin\Debug\conversionEjemplo1.pdb
+C:\Users\fop93\OneDrive\Escritorio\Curso Programación Sapiensia\Programación\Visual Studio 22\conversionEjemplo1\obj\Debug\conversionEjemplo1.csproj.AssemblyReference.cache
+C:\Users\fop93\OneDrive\Escritorio\Curso Programación Sapiensia\Programación\Visual Studio 22\conversionEjemplo1\obj\Debug\conversionEjemplo1.csproj.CoreCompileInputs.cache
+C:\Users\fop93\OneDrive\Escritorio\Curso Programación Sapiensia\Programación\Visual Studio 22\conversionEjemplo1\obj\Debug\conversionEjemplo1.exe
+C:\Users\fop93\OneDrive\Escritorio\Curso Programación Sapiensia\Programación\Visual Studio 22\conversionEjemplo1\obj\Debug\conversionEjemplo1.pdb
