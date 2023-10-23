@@ -1,0 +1,26 @@
+header h1 {
+    display: inline; /* elemento en linea horizontal */
+}
+.menu {
+    /*position: static;*/
+    width: auto;
+    height: auto;
+    float: right; /* movimiento horizontal a la derecha */
+    display: flex;
+    /* padding-top: 10px; */
+    background-color: rgba(51, 51, 51, 0.8);
+}
+
+.menu a {
+    display: block; /* elemento ene el bloque*/
+    color: white;
+    height: 50px;
+    text-decoration: none; /* quita el subrayado del hipervinculo */
+    padding: 15px;
+}
+
+/* Hover - Sobrepone el mouse sobre un elemento y el elemento se activa */
+.menu a:hover {
+    background-color: gray;
+    font-size: 20px;
+}

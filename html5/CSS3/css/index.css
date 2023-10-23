@@ -1,3 +1,78 @@
-p{
-    color:red;
+/* Libreria de fuentes de google - roboto */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Poppins:wght@300&family=Roboto:ital,wght@1,300&display=swap');
+
+/* Importar css de las secciones de la pagian */
+@import url(banner.css);
+@import url(menu.css);
+@import url(blog.css);
+@import url(info.css);
+@import url(footer.css);
+
+body {
+    font-family: 'Roboto', sans-serif; /* fuente de texto */
 }
+
+/* estilo de toda la pagina */
+* {
+    /* margin - margenes del elemento */
+    /* padding - espacio interno entre elementos */
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    width: 100%; /* ancho del elemento*/
+    height: 50px; /* alto del elemento*/
+    /* hexadecimal, rgb, colores predefinidos */
+    background-color: #333333;
+    color: #ffffff; /* color del texto */
+    /* posicion fija */
+    position: fixed;
+    top: 0; /* posiciona el elemento arriba */
+    left: 0; /* posiciona el elemento a la izquierda */
+    z-index: 1; /* anteponer o transponer el elemento */
+    /* -1 atras y 1 adelante*/
+}
+
+.contenedor {
+    margin: auto;
+    width: 90%;
+}
+
+section {
+    width: 100%;
+    margin-bottom: 2%;
+}
+
+/* section de bienvenidos */
+#bienvenidos h2 {
+    text-align: center; /* alineacion al centro */
+    font-size: 24px; /* tamaño del texto*/
+}
+
+#bienvenidos p {
+    text-align: justify; /* alineacion justificada */
+    padding: 2%;
+    font-size: 22px;
+}
+
+/* section de video */
+#video {
+    text-align: center;
+}
+#video h2 {
+    padding-bottom: 2%;
+    font-size: 24px;
+}
+
+/* section de contacto */
+#contacto h2 {
+    text-align: center;
+    font-size: 24px;
+    padding-bottom: 2%;
+}
+
+/*p{
+    color:red;
+}*/
