@@ -1,0 +1,17 @@
+C:\Users\fop93\OneDrive\Escritorio\Curso Programación Sapiensia\Programación\Visual Studio 22\MiPrimerFormulario\bin\Debug\MiPrimerFormulario.exe.config
+C:\Users\fop93\OneDrive\Escritorio\Curso Programación Sapiensia\Programación\Visual Studio 22\MiPrimerFormulario\bin\Debug\MiPrimerFormulario.exe
+C:\Users\fop93\OneDrive\Escritorio\Curso Programación Sapiensia\Programación\Visual Studio 22\MiPrimerFormulario\bin\Debug\MiPrimerFormulario.pdb
+C:\Users\fop93\OneDrive\Escritorio\Curso Programación Sapiensia\Programación\Visual Studio 22\MiPrimerFormulario\obj\Debug\MiPrimerFormulario.csproj.AssemblyReference.cache
+C:\Users\fop93\OneDrive\Escritorio\Curso Programación Sapiensia\Programación\Visual Studio 22\MiPrimerFormulario\obj\Debug\MainWindow.g.cs
+C:\Users\fop93\OneDrive\Escritorio\Curso Programación Sapiensia\Programación\Visual Studio 22\MiPrimerFormulario\obj\Debug\App.g.cs
+C:\Users\fop93\OneDrive\Escritorio\Curso Programación Sapiensia\Programación\Visual Studio 22\MiPrimerFormulario\obj\Debug\MiPrimerFormulario_MarkupCompile.cache
+C:\Users\fop93\OneDrive\Escritorio\Curso Programación Sapiensia\Programación\Visual Studio 22\MiPrimerFormulario\obj\Debug\MiPrimerFormulario_MarkupCompile.lref
+C:\Users\fop93\OneDrive\Escritorio\Curso Programación Sapiensia\Programación\Visual Studio 22\MiPrimerFormulario\obj\Debug\MainWindow.baml
+C:\Users\fop93\OneDrive\Escritorio\Curso Programación Sapiensia\Programación\Visual Studio 22\MiPrimerFormulario\obj\Debug\MiPrimerFormulario.g.resources
+C:\Users\fop93\OneDrive\Escritorio\Curso Programación Sapiensia\Programación\Visual Studio 22\MiPrimerFormulario\obj\Debug\MiPrimerFormulario.Properties.Resources.resources
+C:\Users\fop93\OneDrive\Escritorio\Curso Programación Sapiensia\Programación\Visual Studio 22\MiPrimerFormulario\obj\Debug\MiPrimerFormulario.csproj.GenerateResource.cache
+C:\Users\fop93\OneDrive\Escritorio\Curso Programación Sapiensia\Programación\Visual Studio 22\MiPrimerFormulario\obj\Debug\MiPrimerFormulario.csproj.CoreCompileInputs.cache
+C:\Users\fop93\OneDrive\Escritorio\Curso Programación Sapiensia\Programación\Visual Studio 22\MiPrimerFormulario\obj\Debug\MiPrimerFormulario.exe
+C:\Users\fop93\OneDrive\Escritorio\Curso Programación Sapiensia\Programación\Visual Studio 22\MiPrimerFormulario\obj\Debug\MiPrimerFormulario.pdb
+C:\Users\fop93\OneDrive\Escritorio\Curso Programación Sapiensia\Programación\Visual Studio 22\MiPrimerFormulario\obj\Debug\Formulario2.g.cs
+C:\Users\fop93\OneDrive\Escritorio\Curso Programación Sapiensia\Programación\Visual Studio 22\MiPrimerFormulario\obj\Debug\Formulario2.baml
