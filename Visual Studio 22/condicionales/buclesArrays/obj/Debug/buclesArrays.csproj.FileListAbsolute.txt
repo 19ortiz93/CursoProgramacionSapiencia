@@ -1,7 +1,0 @@
-C:\Users\fop93\OneDrive\Escritorio\Curso Programación Sapiensia\Programación\Visual Studio 22\buclesArrays\obj\Debug\buclesArrays.csproj.AssemblyReference.cache
-C:\Users\fop93\OneDrive\Escritorio\Curso Programación Sapiensia\Programación\Visual Studio 22\buclesArrays\obj\Debug\buclesArrays.csproj.CoreCompileInputs.cache
-C:\Users\fop93\OneDrive\Escritorio\Curso Programación Sapiensia\Programación\Visual Studio 22\buclesArrays\bin\Debug\buclesArrays.exe.config
-C:\Users\fop93\OneDrive\Escritorio\Curso Programación Sapiensia\Programación\Visual Studio 22\buclesArrays\bin\Debug\buclesArrays.exe
-C:\Users\fop93\OneDrive\Escritorio\Curso Programación Sapiensia\Programación\Visual Studio 22\buclesArrays\bin\Debug\buclesArrays.pdb
-C:\Users\fop93\OneDrive\Escritorio\Curso Programación Sapiensia\Programación\Visual Studio 22\buclesArrays\obj\Debug\buclesArrays.exe
-C:\Users\fop93\OneDrive\Escritorio\Curso Programación Sapiensia\Programación\Visual Studio 22\buclesArrays\obj\Debug\buclesArrays.pdb
