@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>buclesArrays.EjemploWhile2</StartupObject>
+    <StartupObject>buclesArrays.Ejemplo2Excepciones</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,11 +46,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Ejemplo1Arrays.cs" />
+    <Compile Include="Ejemplo1Excepciones.cs" />
+    <Compile Include="Ejemplo2Arrays .cs" />
+    <Compile Include="Ejemplo2Excepciones.cs" />
+    <Compile Include="Ejemplo3Arrays.cs" />
+    <Compile Include="Ejemplo3Excepciones.cs" />
+    <Compile Include="EjemploDoWhile.cs" />
     <Compile Include="EjemploFor2.cs" />
     <Compile Include="EjemploFor3.cs" />
     <Compile Include="EjemploWhile1.cs" />
     <Compile Include="EjemploWhile2.cs" />
     <Compile Include="EjemploWhile3.cs" />
+    <Compile Include="EjemploWhile4.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

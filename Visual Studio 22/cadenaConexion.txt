@@ -1,0 +1,5 @@
+cadena de conexion
+
+Data Source=DESKTOP-IDC6J6V\SQLEXPRESS;Initial Catalog=dbCrudWPFm1;Integrated Security=True
+
+dbCrudWPFm1ConnectionString
