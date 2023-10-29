@@ -1,0 +1,23 @@
+﻿<Window x:Class="MiPrimerFormulario.Formulario3"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MiPrimerFormulario"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Title="Formulario3" Height="450" Width="500">
+    <Grid>
+        <Label Content="Seleccione un producto:" HorizontalAlignment="Left" Margin="49,48,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="18"/>
+        <ComboBox Name="cmbProductos" HorizontalAlignment="Left" Margin="293,52,0,0" VerticalAlignment="Top" Width="149" FontWeight="Bold" FontSize="18" SelectionChanged="cmbProductos_SelectionChanged"/>
+        <Label Content="Precio:" HorizontalAlignment="Left" Margin="49,132,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="18"/>
+        <Label Content="Cantidad:" HorizontalAlignment="Left" Margin="49,188,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="18"/>
+        <TextBox Name="txtCantidad" HorizontalAlignment="Left" Margin="293,192,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="149" FontWeight="Bold" FontSize="18"/>
+        <TextBox Name="txtPrecio" IsReadOnly="True" HorizontalAlignment="Left" Margin="293,140,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="149" FontWeight="Bold" FontSize="18"/>
+        <RadioButton x:Name="rbDescuento" Content="Aplicar descuento de 10%" HorizontalAlignment="Left" Margin="49,263,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="18"/>
+        <Button Name="btnCalcular" Content="Calcular Total" HorizontalAlignment="Left" Margin="49,322,0,0" VerticalAlignment="Top" Height="36" Width="135" FontSize="18" FontWeight="Bold" Click="btnCalcular_Click"/>
+        <TextBox Name="txtTotal" IsReadOnly="True" HorizontalAlignment="Left" Margin="293,345,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" FontWeight="Bold" FontSize="18"/>
+        <Label Content="Total a Pagar:" HorizontalAlignment="Left" Margin="290,306,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="18"/>
+
+    </Grid>
+</Window>

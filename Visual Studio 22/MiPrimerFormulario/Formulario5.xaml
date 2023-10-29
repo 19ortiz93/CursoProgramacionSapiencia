@@ -1,0 +1,32 @@
+﻿<Window x:Class="MiPrimerFormulario.Formulario5"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MiPrimerFormulario"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Title="Formulario5" Height="450" Width="400">
+    <Grid>
+        <TabControl>
+            <TabItem Header="N° Primos" FontSize="18" FontWeight="Bold">
+                <Grid Background="#FFBFB3B3">
+                    <Label Content="Ejercicio 1: Número primo" HorizontalAlignment="Center" Margin="0,73,0,0" VerticalAlignment="Top" FontSize="18" FontWeight="Bold" Foreground="Black"/>
+                    <TextBox Name="txtNumPrimo" HorizontalAlignment="Center" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="153" Height="29" FontSize="18" FontWeight="Bold" Margin="0,185,0,0"/>
+                    <Button Name="btnVerificarPrimo" Content="Verificar Primo" HorizontalAlignment="Center" Margin="0,255,0,0" VerticalAlignment="Top" Height="40" Width="153" FontSize="18" FontWeight="Bold" Background="#FF626F73" Foreground="White" Click="btnVerificarPrimo_Click"/>
+                    <Label Content="Ingrese número:" HorizontalAlignment="Center" Margin="0,151,0,0" VerticalAlignment="Top" FontSize="18" FontWeight="Bold" Foreground="Black"/>
+
+                </Grid>
+            </TabItem>
+            <TabItem Header="Factorial" FontSize="18" FontWeight="Bold">
+                <Grid Background="#FFBFB3B3">
+                    <Label Content="Ejercicio 2: Factorial" HorizontalAlignment="Left" Margin="99,60,0,0" VerticalAlignment="Top" FontSize="18" FontWeight="Bold"/>
+                    <Label Content="Ingrese un número:" HorizontalAlignment="Left" Margin="99,131,0,0" VerticalAlignment="Top" FontSize="18" FontWeight="Bold"/>
+                    <TextBox Name="txtNumFact" HorizontalAlignment="Left" Margin="107,163,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="158" Height="34" FontSize="18" FontWeight="Bold"/>
+                    <Button Name="btnVerificarFactorial" Content="Calcular Factorial" HorizontalAlignment="Left" Margin="108,236,0,0" VerticalAlignment="Top" Height="37" Width="160" FontSize="18" FontWeight="Bold" Background="#FF626F73" Click="btnVerificarFactorial_Click"/>
+
+                </Grid>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>

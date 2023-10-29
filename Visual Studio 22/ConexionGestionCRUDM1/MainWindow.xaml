@@ -1,0 +1,38 @@
+﻿<Window x:Class="ConexionGestionCRUDM1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ConexionGestionCRUDM1"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Title="MainWindow" Height="450" Width="1200">
+    <Grid>
+        <DataGrid Name="dtgProductos" Margin="497,48,21,48">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ID" Width="50" Binding="{Binding Id}"/>
+                <DataGridTextColumn Header="Descripción" Width="200" Binding="{Binding descripcion}"/>
+                <DataGridTextColumn Header="Precio" Width="100" Binding="{Binding precio}"/>
+                <DataGridTextColumn Header="Cantidad" Width="60" Binding="{Binding cantidad}"/>
+                <DataGridTextColumn Header="Fecha Venc." Width="80" Binding="{Binding fechaVencimiento}"/>
+                <DataGridTextColumn Header="Categoria" Width="100" Binding="{Binding categoria}"/>
+                <DataGridTextColumn Header="Estado" Width="90" Binding="{Binding estado}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button Name="btnGuardar" Content="Guardar" HorizontalAlignment="Left" Margin="353,48,0,0" VerticalAlignment="Top" Height="44" Width="130" FontSize="18" FontWeight="Bold" Click="btnGuardar_Click"/>
+        <Button Name="btnEliminar" Content="Eliminar" HorizontalAlignment="Left" Margin="353,108,0,0" VerticalAlignment="Top" Height="44" Width="130" Click="btnEliminar_Click" FontSize="18" FontWeight="Bold"/>
+        <Button Name="btnLimpiar" Content="Limpiar" HorizontalAlignment="Left" Margin="353,173,0,0" VerticalAlignment="Top" Height="44" Width="130" FontSize="18" FontWeight="Bold"/>
+        <Label Content="Descripción" HorizontalAlignment="Left" Margin="25,44,0,0" VerticalAlignment="Top" FontSize="18" FontWeight="Bold"/>
+        <Label Content="Precio" HorizontalAlignment="Left" Margin="25,100,0,0" VerticalAlignment="Top" FontSize="18" FontWeight="Bold"/>
+        <Label Content="Cantidad" HorizontalAlignment="Left" Margin="25,149,0,0" VerticalAlignment="Top" FontSize="18" FontWeight="Bold"/>
+        <Label Content="Fecha Venc." HorizontalAlignment="Left" Margin="25,0,0,0" VerticalAlignment="Center" FontSize="18" FontWeight="Bold"/>
+        <Label Content="Categoria" HorizontalAlignment="Left" Margin="21,260,0,0" VerticalAlignment="Top" FontSize="18" FontWeight="Bold"/>
+        <Label Content="Estado" HorizontalAlignment="Left" Margin="31,317,0,0" VerticalAlignment="Top" FontSize="18" FontWeight="Bold"/>
+        <TextBox Name="txtDescripcion" HorizontalAlignment="Left" Margin="150,44,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="171" Height="32" FontSize="18" FontWeight="Bold"/>
+        <TextBox Name="txtPrecio" HorizontalAlignment="Left" Margin="150,97,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="171" Height="32" FontSize="18" FontWeight="Bold"/>
+        <TextBox Name="txtCantidad" HorizontalAlignment="Left" Margin="150,149,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="171" Height="32" FontSize="18" FontWeight="Bold"/>
+        <ComboBox Name="cmbCategorias" HorizontalAlignment="Left" Margin="150,261,0,0" VerticalAlignment="Top" Width="171" Height="32" FontSize="18" FontWeight="Bold"/>
+        <CheckBox Name="chkEstado" Content="CheckBox" HorizontalAlignment="Left" Margin="150,322,0,0" VerticalAlignment="Top" FontSize="18" FontWeight="Bold" Width="115"/>
+        <DatePicker Name="dpkFechaVencimiento" HorizontalAlignment="Left" Margin="150,204,0,0" VerticalAlignment="Top" Height="32" Width="171" FontSize="18" FontWeight="Bold"/>
+    </Grid>
+</Window>

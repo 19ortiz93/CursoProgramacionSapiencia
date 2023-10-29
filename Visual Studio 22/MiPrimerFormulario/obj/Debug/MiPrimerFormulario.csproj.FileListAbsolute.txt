@@ -15,3 +15,11 @@ C:\Users\fop93\OneDrive\Escritorio\Curso Programación Sapiensia\Programación\V
 C:\Users\fop93\OneDrive\Escritorio\Curso Programación Sapiensia\Programación\Visual Studio 22\MiPrimerFormulario\obj\Debug\MiPrimerFormulario.pdb
 C:\Users\fop93\OneDrive\Escritorio\Curso Programación Sapiensia\Programación\Visual Studio 22\MiPrimerFormulario\obj\Debug\Formulario2.g.cs
 C:\Users\fop93\OneDrive\Escritorio\Curso Programación Sapiensia\Programación\Visual Studio 22\MiPrimerFormulario\obj\Debug\Formulario2.baml
+C:\Users\fop93\OneDrive\Escritorio\Curso Programación Sapiensia\Programación\Visual Studio 22\MiPrimerFormulario\obj\Debug\Formulario3.g.cs
+C:\Users\fop93\OneDrive\Escritorio\Curso Programación Sapiensia\Programación\Visual Studio 22\MiPrimerFormulario\obj\Debug\Formulario3.baml
+C:\Users\fop93\OneDrive\Escritorio\Curso Programación Sapiensia\Programación\Visual Studio 22\MiPrimerFormulario\obj\Debug\Formulario4.g.cs
+C:\Users\fop93\OneDrive\Escritorio\Curso Programación Sapiensia\Programación\Visual Studio 22\MiPrimerFormulario\obj\Debug\Formulario4.baml
+C:\Users\fop93\OneDrive\Escritorio\Curso Programación Sapiensia\Programación\Visual Studio 22\MiPrimerFormulario\obj\Debug\Formulario5.g.cs
+C:\Users\fop93\OneDrive\Escritorio\Curso Programación Sapiensia\Programación\Visual Studio 22\MiPrimerFormulario\obj\Debug\Formulario5.baml
+C:\Users\fop93\OneDrive\Escritorio\Curso Programación Sapiensia\Programación\Visual Studio 22\MiPrimerFormulario\obj\Debug\Formulario6.g.cs
+C:\Users\fop93\OneDrive\Escritorio\Curso Programación Sapiensia\Programación\Visual Studio 22\MiPrimerFormulario\obj\Debug\Formulario6.baml

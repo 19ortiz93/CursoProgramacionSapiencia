@@ -59,6 +59,22 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="Formulario3.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Formulario4.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Formulario5.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Formulario6.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -69,6 +85,18 @@
     </Compile>
     <Compile Include="Formulario2.xaml.cs">
       <DependentUpon>Formulario2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Formulario3.xaml.cs">
+      <DependentUpon>Formulario3.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Formulario4.xaml.cs">
+      <DependentUpon>Formulario4.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Formulario5.xaml.cs">
+      <DependentUpon>Formulario5.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Formulario6.xaml.cs">
+      <DependentUpon>Formulario6.xaml</DependentUpon>
     </Compile>
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>

@@ -1,0 +1,19 @@
+﻿<Window x:Class="MiPrimerFormulario.Formulario4"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MiPrimerFormulario"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Title="Formulario4" Height="450" Width="500">
+    <Grid Background="#FF818484">
+        <CheckBox Name="chkHabilitar" Content="Habilitar Cursos" HorizontalAlignment="Left" Margin="61,21,0,0" VerticalAlignment="Top" FontSize="18" FontWeight="Bold" Checked="chkHabilitar_Checked" Unchecked="chkHabilitar_Unchecked"/>
+        <ComboBox Name="cmbCursos" IsEnabled="False" HorizontalAlignment="Left" Margin="61,96,0,0" VerticalAlignment="Top" Width="233" Height="36" FontSize="18" FontWeight="Bold"/>
+        <Button Name="btnAgregar" Content="Agregar" HorizontalAlignment="Left" Margin="61,156,0,0" VerticalAlignment="Top" Height="33" Width="133" FontSize="18" FontWeight="Bold" Background="#FF42D63D" Click="btnAgregar_Click"/>
+        <Button Name="btnEliminar" Content="Eliminar" HorizontalAlignment="Left" Margin="215,156,0,0" VerticalAlignment="Top" Height="33" Width="133" FontSize="18" FontWeight="Bold" Background="#FFC80101" Click="btnEliminar_Click"/>
+        <ListBox Name="lstCursos" Margin="61,208,54,23" FontSize="16" Background="#FFC3CCCC"/>
+        <Label Content="Seleccione cursos" HorizontalAlignment="Left" Margin="61,65,0,0" VerticalAlignment="Top" FontSize="18" FontWeight="Bold"/>
+
+    </Grid>
+</Window>

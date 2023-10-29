@@ -1,0 +1,15 @@
+C:\Users\fop93\OneDrive\Escritorio\Curso Programación Sapiensia\Programación\Visual Studio 22\ConexionGestionCRUDM1\bin\Debug\ConexionGestionCRUDM1.exe.config
+C:\Users\fop93\OneDrive\Escritorio\Curso Programación Sapiensia\Programación\Visual Studio 22\ConexionGestionCRUDM1\bin\Debug\ConexionGestionCRUDM1.exe
+C:\Users\fop93\OneDrive\Escritorio\Curso Programación Sapiensia\Programación\Visual Studio 22\ConexionGestionCRUDM1\bin\Debug\ConexionGestionCRUDM1.pdb
+C:\Users\fop93\OneDrive\Escritorio\Curso Programación Sapiensia\Programación\Visual Studio 22\ConexionGestionCRUDM1\obj\Debug\ConexionGestionCRUDM1.csproj.AssemblyReference.cache
+C:\Users\fop93\OneDrive\Escritorio\Curso Programación Sapiensia\Programación\Visual Studio 22\ConexionGestionCRUDM1\obj\Debug\MainWindow.g.cs
+C:\Users\fop93\OneDrive\Escritorio\Curso Programación Sapiensia\Programación\Visual Studio 22\ConexionGestionCRUDM1\obj\Debug\App.g.cs
+C:\Users\fop93\OneDrive\Escritorio\Curso Programación Sapiensia\Programación\Visual Studio 22\ConexionGestionCRUDM1\obj\Debug\ConexionGestionCRUDM1_MarkupCompile.cache
+C:\Users\fop93\OneDrive\Escritorio\Curso Programación Sapiensia\Programación\Visual Studio 22\ConexionGestionCRUDM1\obj\Debug\ConexionGestionCRUDM1_MarkupCompile.lref
+C:\Users\fop93\OneDrive\Escritorio\Curso Programación Sapiensia\Programación\Visual Studio 22\ConexionGestionCRUDM1\obj\Debug\MainWindow.baml
+C:\Users\fop93\OneDrive\Escritorio\Curso Programación Sapiensia\Programación\Visual Studio 22\ConexionGestionCRUDM1\obj\Debug\ConexionGestionCRUDM1.g.resources
+C:\Users\fop93\OneDrive\Escritorio\Curso Programación Sapiensia\Programación\Visual Studio 22\ConexionGestionCRUDM1\obj\Debug\ConexionGestionCRUDM1.Properties.Resources.resources
+C:\Users\fop93\OneDrive\Escritorio\Curso Programación Sapiensia\Programación\Visual Studio 22\ConexionGestionCRUDM1\obj\Debug\ConexionGestionCRUDM1.csproj.GenerateResource.cache
+C:\Users\fop93\OneDrive\Escritorio\Curso Programación Sapiensia\Programación\Visual Studio 22\ConexionGestionCRUDM1\obj\Debug\ConexionGestionCRUDM1.csproj.CoreCompileInputs.cache
+C:\Users\fop93\OneDrive\Escritorio\Curso Programación Sapiensia\Programación\Visual Studio 22\ConexionGestionCRUDM1\obj\Debug\ConexionGestionCRUDM1.exe
+C:\Users\fop93\OneDrive\Escritorio\Curso Programación Sapiensia\Programación\Visual Studio 22\ConexionGestionCRUDM1\obj\Debug\ConexionGestionCRUDM1.pdb
